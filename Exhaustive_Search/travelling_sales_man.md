@@ -72,7 +72,7 @@ int main(){
 
 # Complexities
 
-Time complexity:O(n^2);
+Time complexity:O(n!);
 
-space complexity:O(n^2);
+space complexity:O(n);
 
